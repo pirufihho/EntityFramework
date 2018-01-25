@@ -1,0 +1,11 @@
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\flavio\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
